@@ -19,9 +19,8 @@
     - Redash
 ---
 ## 아키텍처
+![스크린샷 2023-11-23 오후 6 43 31](https://github.com/Hju95/E2E1-TaskTracker/assets/59231743/9c1752ae-a54f-430d-bd95-45d34e36937b)
 
----
-## CI/CD
 
 ---
 ## ERD
